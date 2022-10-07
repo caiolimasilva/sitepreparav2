@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+footer{
+    background-color: rgb(131, 24, 24);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    line-height: 1px;
+}
